@@ -1,0 +1,5 @@
+azure-functions
+azure-durable-functions
+azure-storage-blob
+pymongo
+

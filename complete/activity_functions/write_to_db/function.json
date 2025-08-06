@@ -1,0 +1,12 @@
+{
+  "bindings": [
+    {
+      "name": "input_data",
+      "type": "activityTrigger",
+      "direction": "in"
+    }
+  ],
+  "scriptFile": "__init__.py",
+  "entryPoint": "main"
+}
+

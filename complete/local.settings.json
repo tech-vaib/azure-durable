@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "<your-azure-blob-conn-str>",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "MONGO_CONN_STR": "<your-mongo-cosmos-str>",
+    "MONGO_DB": "your-db",
+    "MONGO_COLLECTION": "chunks",
+    "BEARER_TOKEN": "super-secret-token"
+  }
+}
+
